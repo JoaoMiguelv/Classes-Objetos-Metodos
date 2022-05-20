@@ -1,0 +1,16 @@
+OBJETOS:
+É uma coleção de propriedades, sendo cada propriedade definida como uma sintaxe "chave": "valor"
+
+Criando um objeto:
+let objeto = {
+    "chave1": "valor1",  ---> PROPRIEDADE 1
+    "chave2": "valor2",  ---> PROPRIEDADE 2
+}
+
+CLASSES:
+Modelo para criar um objeto (instanciar um objeto através de uma classe) -> Projeto ou modelagem de algo
+Herança: objeto herda tudo que tem na classe
+
+MÉTODOS:
+Ações que objetos fazem, caso estejam na classe.
+Pode se criar função dentro de um objeto.
